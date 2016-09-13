@@ -5,7 +5,7 @@ ActionSheet底部弹框 以选取图片为例
 
 自定义的ActionSheet，简单实用
 
-![snapshot](https://github.com/626600815/DNActionSheet/blob/master/DNActionSheet/DNActionSheet/ActionSheet.gif)
+![snapshot](https://github.com/wjn-name/DNActionSheet/blob/master/ActionSheet.gif)
 
 ###使用说明
 
